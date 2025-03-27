@@ -1,0 +1,19 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "commitlint-config-gitmoji": "^2.3.1",
+    "husky": "^9.1.7"
+  }
+}
